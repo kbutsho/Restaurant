@@ -1,0 +1,16 @@
+.navbar-nav .nav-link:hover {
+  background-color: red;
+  border-radius: 5px;
+}
+.navbar {
+  background-color: #032e65;
+}
+@media (max-width: 980px) {
+  .nav-link {
+    text-align: left;
+    width: 25%;
+  }
+}
+.navbarIcon {
+  color: rgb(59, 253, 0);
+}
