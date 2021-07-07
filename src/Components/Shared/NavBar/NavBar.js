@@ -10,7 +10,7 @@ const NavBar = () => {
       <nav className="navbar navbar-expand-lg navbar-light fixed-top ">
         <div className="container-fluid container">
           <h3 className="text-white customFont px-3 font-weight-bold">
-            RESTAURANT
+           FOOD SPARKS
           </h3>
           <button
             className="navbar-toggler "
